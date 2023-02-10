@@ -4,7 +4,7 @@
 Case: Modulair bedieningspaneel
 
 
-CSS-technieken: </br>
+CSS-technieken:
 - gradients </br>
 - 2D transforms </br>
 - 3D transforms </br>
