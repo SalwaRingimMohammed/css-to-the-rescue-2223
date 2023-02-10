@@ -4,15 +4,15 @@
 Case: Modulair bedieningspaneel
 
 
-CSS-technieken: - gradients
-                - 3D transforms
-                - animaties
-                    - Specifiek: gradients animeren
-                - grids
-                - has()
-                - clip-mask
-                - _misschien Masonry-grid
+CSS-technieken: - gradients </br>
+                - 3D transforms </br>
+                - animaties </br>
+                - Specifiek: gradients animeren </br>
+                - grids </br>
+                - has() </br>
+                - clip-mask </br>
+                - _misschien Masonry-grid_ </br>
 
-**Planning
+### Planning
 
 Week 1: Maak eerste ontwerp. Attend themasessie Kleur.
