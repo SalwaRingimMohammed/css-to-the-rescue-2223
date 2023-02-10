@@ -5,6 +5,7 @@ Case: Modulair bedieningspaneel
 
 
 CSS-technieken: - gradients </br>
+                - 2D transforms </br>
                 - 3D transforms </br>
                 - animaties </br>
                 - Specifiek: gradients animeren </br>
