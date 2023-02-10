@@ -14,3 +14,5 @@ CSS-technieken: - gradients
                 - _misschien Masonry-grid
 
 **Planning
+
+Week 1: Maak eerste ontwerp. Attend themasessie Kleur.
