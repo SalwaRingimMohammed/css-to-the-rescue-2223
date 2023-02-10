@@ -6,9 +6,10 @@ Case: Modulair bedieningspaneel
 
 CSS-technieken:
 - gradients </br>
+- neon colours </br>
 - 2D transforms </br>
 - 3D transforms </br>
-- animaties </br>
+- animations </br>
 - _specifiek:_ gradients animeren </br>
 - grids </br>
 - has() </br>
